@@ -10,8 +10,6 @@ const servidorDasImagens = 'https://fegemo.github.io/cefet-web/images/',
     'philae-collecting.jpg'
   ];
 
-let articlePhilae = document.querySelector('#philae');
-articlePhilae.classList.add('ativa');
 let imgGaleria = document.querySelector('#slide');
 let imgIndex = 0;
 
